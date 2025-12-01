@@ -1,1 +1,0 @@
-"use strict";(globalThis["webpackChunkmessage_board"]=globalThis["webpackChunkmessage_board"]||[]).push([[879],{5879:(e,s,a)=>{function r(e,s){return' R12921080, a NTU student who takes course named " Cyber security" . '}a.r(s),a.d(s,{default:()=>o});var t=a(2807);const u={},n=(0,t.A)(u,[["render",r]]),o=n}}]);

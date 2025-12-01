@@ -1,1 +1,0 @@
-"use strict";(globalThis["webpackChunkmessage_board"]=globalThis["webpackChunkmessage_board"]||[]).push([[176],{7176:(e,s,a)=>{function o(e,s){return" Hello, welcom to my website. "}a.r(s),a.d(s,{default:()=>b});var r=a(2807);const l={},t=(0,r.A)(l,[["render",o]]),b=t}}]);
